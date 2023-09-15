@@ -1,0 +1,189 @@
+1:HL["/_next/static/css/63e356b73f309e5b.css",{"as":"style"}]
+0:["JM6E3AQqrralRKI_m-20Y",[[["",{"children":["blog",{"children":[["slug","grupo-visual-prefeitura","d"],{"children":["__PAGE__?{\"slug\":\"grupo-visual-prefeitura\"}",{}]}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/63e356b73f309e5b.css","precedence":"next"}]],"$L3"]]]]
+4:HL["/_next/static/css/882b2d82414c1c0a.css",{"as":"style"}]
+5:I{"id":7643,"chunks":["72:static/chunks/72-7cd12794066e2d60.js","396:static/chunks/396-4cf8abf670efa00e.js","213:static/chunks/213-1ea4ebc872fb76f4.js","699:static/chunks/699-e6196f13cbc5261a.js","619:static/chunks/619-c2e82a3295333478.js","451:static/chunks/451-e11d09c0cf676e13.js","13:static/chunks/13-e704de2aa20ee792.js","161:static/chunks/161-a50d85153ca46f55.js","709:static/chunks/709-13009148e70e6cbe.js","185:static/chunks/app/layout-e7bf5df21143a21f.js"],"name":"ReactPixelProvider","async":false}
+6:I{"id":8349,"chunks":["72:static/chunks/72-7cd12794066e2d60.js","396:static/chunks/396-4cf8abf670efa00e.js","213:static/chunks/213-1ea4ebc872fb76f4.js","699:static/chunks/699-e6196f13cbc5261a.js","619:static/chunks/619-c2e82a3295333478.js","451:static/chunks/451-e11d09c0cf676e13.js","13:static/chunks/13-e704de2aa20ee792.js","161:static/chunks/161-a50d85153ca46f55.js","709:static/chunks/709-13009148e70e6cbe.js","185:static/chunks/app/layout-e7bf5df21143a21f.js"],"name":"CartProvider","async":false}
+7:I{"id":2215,"chunks":["72:static/chunks/72-7cd12794066e2d60.js","396:static/chunks/396-4cf8abf670efa00e.js","213:static/chunks/213-1ea4ebc872fb76f4.js","699:static/chunks/699-e6196f13cbc5261a.js","619:static/chunks/619-c2e82a3295333478.js","451:static/chunks/451-e11d09c0cf676e13.js","13:static/chunks/13-e704de2aa20ee792.js","161:static/chunks/161-a50d85153ca46f55.js","709:static/chunks/709-13009148e70e6cbe.js","185:static/chunks/app/layout-e7bf5df21143a21f.js"],"name":"OrderProvider","async":false}
+8:I{"id":251,"chunks":["72:static/chunks/72-7cd12794066e2d60.js","396:static/chunks/396-4cf8abf670efa00e.js","213:static/chunks/213-1ea4ebc872fb76f4.js","699:static/chunks/699-e6196f13cbc5261a.js","619:static/chunks/619-c2e82a3295333478.js","451:static/chunks/451-e11d09c0cf676e13.js","13:static/chunks/13-e704de2aa20ee792.js","161:static/chunks/161-a50d85153ca46f55.js","709:static/chunks/709-13009148e70e6cbe.js","185:static/chunks/app/layout-e7bf5df21143a21f.js"],"name":"ThemeProvider","async":false}
+9:I{"id":492,"chunks":["72:static/chunks/72-7cd12794066e2d60.js","396:static/chunks/396-4cf8abf670efa00e.js","213:static/chunks/213-1ea4ebc872fb76f4.js","699:static/chunks/699-e6196f13cbc5261a.js","619:static/chunks/619-c2e82a3295333478.js","451:static/chunks/451-e11d09c0cf676e13.js","13:static/chunks/13-e704de2aa20ee792.js","161:static/chunks/161-a50d85153ca46f55.js","709:static/chunks/709-13009148e70e6cbe.js","185:static/chunks/app/layout-e7bf5df21143a21f.js"],"name":"","async":false}
+a:I{"id":9181,"chunks":["72:static/chunks/72-7cd12794066e2d60.js","396:static/chunks/396-4cf8abf670efa00e.js","213:static/chunks/213-1ea4ebc872fb76f4.js","699:static/chunks/699-e6196f13cbc5261a.js","619:static/chunks/619-c2e82a3295333478.js","451:static/chunks/451-e11d09c0cf676e13.js","13:static/chunks/13-e704de2aa20ee792.js","161:static/chunks/161-a50d85153ca46f55.js","709:static/chunks/709-13009148e70e6cbe.js","185:static/chunks/app/layout-e7bf5df21143a21f.js"],"name":"","async":false}
+b:"$Sreact.suspense"
+c:I{"id":5567,"chunks":["72:static/chunks/72-7cd12794066e2d60.js","396:static/chunks/396-4cf8abf670efa00e.js","213:static/chunks/213-1ea4ebc872fb76f4.js","699:static/chunks/699-e6196f13cbc5261a.js","619:static/chunks/619-c2e82a3295333478.js","451:static/chunks/451-e11d09c0cf676e13.js","13:static/chunks/13-e704de2aa20ee792.js","161:static/chunks/161-a50d85153ca46f55.js","709:static/chunks/709-13009148e70e6cbe.js","185:static/chunks/app/layout-e7bf5df21143a21f.js"],"name":"","async":false}
+e:I{"id":7767,"chunks":["272:static/chunks/webpack-80ef5934a20c9ab0.js","971:static/chunks/fd9d1056-6982c396003f1f03.js","596:static/chunks/596-6f5aa00033815a2b.js"],"name":"default","async":false}
+f:I{"id":7920,"chunks":["272:static/chunks/webpack-80ef5934a20c9ab0.js","971:static/chunks/fd9d1056-6982c396003f1f03.js","596:static/chunks/596-6f5aa00033815a2b.js"],"name":"default","async":false}
+11:I{"id":6171,"chunks":["72:static/chunks/72-7cd12794066e2d60.js","396:static/chunks/396-4cf8abf670efa00e.js","213:static/chunks/213-1ea4ebc872fb76f4.js","699:static/chunks/699-e6196f13cbc5261a.js","619:static/chunks/619-c2e82a3295333478.js","451:static/chunks/451-e11d09c0cf676e13.js","13:static/chunks/13-e704de2aa20ee792.js","161:static/chunks/161-a50d85153ca46f55.js","709:static/chunks/709-13009148e70e6cbe.js","185:static/chunks/app/layout-e7bf5df21143a21f.js"],"name":"","async":false}
+13:I{"id":9164,"chunks":["72:static/chunks/72-7cd12794066e2d60.js","396:static/chunks/396-4cf8abf670efa00e.js","213:static/chunks/213-1ea4ebc872fb76f4.js","699:static/chunks/699-e6196f13cbc5261a.js","619:static/chunks/619-c2e82a3295333478.js","451:static/chunks/451-e11d09c0cf676e13.js","13:static/chunks/13-e704de2aa20ee792.js","161:static/chunks/161-a50d85153ca46f55.js","709:static/chunks/709-13009148e70e6cbe.js","185:static/chunks/app/layout-e7bf5df21143a21f.js"],"name":"","async":false}
+2:[["$","$L5",null,{"children":["$","$L6",null,{"children":["$","$L7",null,{"children":["$","$L8",null,{"theme":"$9","children":[["$","$La",null,{}],["$","html",null,{"lang":"pt","children":["$","body",null,{"children":[["$","$b",null,{"fallback":null,"children":["$","$Lc",null,{}]}],["$","div",null,{"className":"overflow-x-hidden h-fit overflow-y-auto","children":["$Ld",["$","$Le",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$Lf",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$Le",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$Lf",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$Le",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children",["slug","grupo-visual-prefeitura","d"],"children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$Lf",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L10",null],"segment":"__PAGE__?{\"slug\":\"grupo-visual-prefeitura\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/882b2d82414c1c0a.css","precedence":"next"}]]}],"segment":["slug","grupo-visual-prefeitura","d"]},"styles":[]}],"segment":"blog"},"styles":[]}],["$","$L11",null,{}],"$L12"]}],["$","$b",null,{"fallback":null,"children":["$","$L13",null,{}]}]]}]}]]}]}]}]}],null]
+14:T1539,<h1>Grupo Visual e reconhecida pela prefeitura de Francisco Beltrao</h1>
+    <img src="/blog2.webp" alt="esporte" style="margin-bottom:0.5rem;"/>
+    <div class=" flex gap-x-2 items-center" style="margin-bottom:2rem;">
+              <img
+              class="rounded-full w-16 h-16"
+                alt="Claudir Ramos"
+                src="/julianduque.png"
+                width={70}
+                height={70}
+              />
+              <div class="flex flex-col">
+                <span class="font-bold">
+                  Claudir Ramos
+                </span>
+                <span>
+                 13 de setembro
+                </span>
+              </div>
+            </div><h2>Heading level 2</h2>
+<p>Try to put a blank line before...</p>
+<blockquote>
+<p>This is a blockquote</p>
+</blockquote>
+<p>...and after a blockquote.</p>
+<p>I just love <strong>bold text</strong>.</p>
+<p>I just love <strong>bold text</strong>.</p>
+<p>Love<strong>is</strong>bold</p>
+<p>Italicized text is the <em>cat's meow</em>.</p>
+<ol>
+<li>First item</li>
+<li>Second item</li>
+<li>Third item</li>
+<li>Fourth item</li>
+</ol>
+<ul>
+<li>First item</li>
+<li>Second item</li>
+</ul>
+<ul>
+<li>
+<p>Third item</p>
+</li>
+<li>
+<p>Fourth item</p>
+</li>
+<li>
+<p>First item</p>
+</li>
+<li>
+<p>Second item</p>
+</li>
+<li>
+<p>Third item</p>
+<ul>
+<li>Indented item</li>
+<li>Indented item</li>
+</ul>
+</li>
+<li>
+<p>Fourth item</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>This is the first list item.</p>
+</li>
+<li>
+<p>Here's the second list item.</p>
+<blockquote>
+<p>A blockquote would look great below the second list item.</p>
+</blockquote>
+</li>
+<li>
+<p>And here's the third list item.</p>
+</li>
+</ul>
+<p>My favorite search engine is <a href="https://duckduckgo.com" title="The best search engine for privacy">Duck Duck Go</a>.</p>
+<p>In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends
+of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to
+eat: it was a <a href="https://en.wikipedia.org/wiki/Hobbit#Lifestyle" title="Hobbit lifestyles">hobbit-hole</a>, and that means comfort.</p>
+<figure>
+    <img src="/camila-bomfim.webp"
+    style="width:300px"
+         alt="Albuquerque, New Mexico">
+    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+</figure>
+<blockquote>
+<p>⚠ <strong>Warning:</strong> Do not push the big red button.</p>
+</blockquote>
+<blockquote>
+<p>📝 <strong>Note:</strong> Sunrises are beautiful.</p>
+</blockquote>
+<blockquote>
+<p>💡 <strong>Tip:</strong> Remember to appreciate the little things in life.</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>hola</th>
+<th>amigo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>como</td>
+<td>estas</td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://grupo-visual.netlify.app/cursos/frontend">curso de frontend</a></p>
+<h2>Markdown output 🛫</h2>
+<p><a href="https://ckeditor.com/">CKEditor 5</a> can be configured to output Markdown instead of HTML. Markdown is a lightweight markup language that you can use to add formatting to plain text documents. Use the <strong>Source</strong> button to check and edit the Markdown source code of this content.</p>
+<p>The editor-produced Markdown output supports most essential features, like <a href="https://ckeditor.com/">links</a>, <strong>different</strong> kinds of <em>emphasis</em>, <code>inline code formatting</code>, or code blocks:</p>
+<pre><code class="language-css">p {
+    text-align: center;
+    color: red;
+}
+</code></pre>
+<h2>Markdown input 🛬</h2>
+<p>Thanks to the <a href="https://ckeditor.com/docs/ckeditor5/latest/features/autoformat.html">autoformatting feature</a>, you can use Markdown syntax when writing. Try it out - use these (or any other) Markdown shortcuts in the editor to format the content on the fly 🚀!</p>
+<table>
+<thead>
+<tr>
+<th>Inline formatting</th>
+<th>Shortcut</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Bold</strong></td>
+<td>Type <code>**</code> or <code>__</code> around your text.</td>
+</tr>
+<tr>
+<td><em>Italic</em></td>
+<td>Type <code>*</code> or <code>_</code> around your text.</td>
+</tr>
+<tr>
+<td><code>Code</code></td>
+<td>Type <code>ˋ</code> around your text.</td>
+</tr>
+<tr>
+<td><del>Strikethrough</del></td>
+<td>Type <code>~~</code> around your text.</td>
+</tr>
+</tbody>
+</table>
+<p>Shh! 🤫 Markdown has very basic support for tables. Some advanced table-related features like table or cell styling were disabled in this demo.</p>
+<h2>Block formatting</h2>
+<p>You can also use Markdown to create various text blocks, such as:</p>
+<ul>
+<li>Block quotes - Start a line with <code>﹥</code> followed by a space.</li>
+<li>Headings:
+<ol>
+<li>Heading 1 - Start a line with <code>#</code> followed by a space.</li>
+<li>Heading 2 - Start a line with <code>##</code> followed by a space.</li>
+<li>Heading 3 - Start a line with <code>###</code> followed by a space.</li>
+</ol>
+</li>
+<li>Lists, including nested ones:
+<ul>
+<li>Numbered lists - Start a line with <code>1.</code> or <code>1)</code> followed by a space.</li>
+<li>Bulleted lists - Start a line with <code>*</code> or <code>-</code> followed by a space.</li>
+<li>To-do lists - Start a line with <code>[ ]</code> or <code>[x]</code> followed by a space to insert an unchecked or checked list item.</li>
+</ul>
+</li>
+<li>Code blocks - Start a line with <code>ˋˋˋ</code>.</li>
+<li>Horizontal lines - Start a line with <code>---</code></li>
+</ul>10:["$","section",null,{"children":["$","div",null,{"className":"m-auto max-w-[900px] mt-20  md:mt-16 w-fit","children":["$","div",null,{"className":"markdown-body ","dangerouslySetInnerHTML":{"__html":"$14"}}]}]}]
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Grupo Visual e reconhecida pela prefeitura de Francisco Beltrao | Grupo Visual"}],["$","meta","2",{"name":"description","content":"Num recente podcast do nosso canal de youtube tivemos de convidado"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","4",{"property":"og:title","content":"Grupo Visual e reconhecida pela prefeitura de Francisco Beltrao | Grupo Visual"}],["$","meta","5",{"property":"og:description","content":"Num recente podcast do nosso canal de youtube tivemos de convidado"}],["$","meta","6",{"property":"og:url","content":"https://grupo-visual.netlify.app/grupo-visual-prefeitura"}],["$","meta","7",{"property":"og:site_name","content":"Grupo Visual"}],["$","meta","8",{"property":"og:locale","content":"pt_BR"}],["$","meta","9",{"property":"og:image","content":"https://grupo-visual.netlify.app/blog2.webp"}],["$","meta","10",{"property":"og:image:width","content":"800"}],["$","meta","11",{"property":"og:image:height","content":"600"}],["$","meta","12",{"property":"og:image:alt","content":"esporte"}],["$","meta","13",{"property":"og:image","content":"https://grupo-visual.netlify.app/blog2.webp"}],["$","meta","14",{"property":"og:image:width","content":"1800"}],["$","meta","15",{"property":"og:image:height","content":"1600"}],["$","meta","16",{"property":"og:image:alt","content":"esporte"}],["$","meta","17",{"property":"og:type","content":"website"}],["$","meta","18",{"name":"twitter:card","content":"summary"}],["$","meta","19",{"name":"twitter:title","content":"Grupo Visual e reconhecida pela prefeitura de Francisco Beltrao | Grupo Visual"}],["$","meta","20",{"name":"twitter:description","content":"Num recente podcast do nosso canal de youtube tivemos de convidado"}],["$","meta","21",{"name":"twitter:image","content":"https://grupo-visual.netlify.app/blog2.webp"}],["$","meta","22",{"name":"twitter:image:width","content":"800"}],["$","meta","23",{"name":"twitter:image:height","content":"600"}],["$","meta","24",{"name":"twitter:image:alt","content":"esporte"}],["$","meta","25",{"name":"twitter:image","content":"https://grupo-visual.netlify.app/blog2.webp"}],["$","meta","26",{"name":"twitter:image:width","content":"1800"}],["$","meta","27",{"name":"twitter:image:height","content":"1600"}],["$","meta","28",{"name":"twitter:image:alt","content":"esporte"}],["$","link","29",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"any"}]]
+15:I{"id":748,"chunks":["72:static/chunks/72-7cd12794066e2d60.js","396:static/chunks/396-4cf8abf670efa00e.js","213:static/chunks/213-1ea4ebc872fb76f4.js","699:static/chunks/699-e6196f13cbc5261a.js","619:static/chunks/619-c2e82a3295333478.js","451:static/chunks/451-e11d09c0cf676e13.js","13:static/chunks/13-e704de2aa20ee792.js","161:static/chunks/161-a50d85153ca46f55.js","709:static/chunks/709-13009148e70e6cbe.js","185:static/chunks/app/layout-e7bf5df21143a21f.js"],"name":"","async":false}
+d:["$","$L15",null,{"routes":[{"name":"Cursos","route":"/cursos"},{"name":"Sobre","route":"#","columns":1,"rowsPerColumn":2,"collapse":[{"collapse":[{"name":"Quem Somos","route":"/quem-somos"},{"name":"Nosso Método","route":"/quem-somos#nosso-metodo"},{"name":"Professores","route":"/professores"}]}]},{"name":"Contato","route":"/contato"},{"name":"Blog","route":"/blog"}],"urlLogo":"/grupo_visual_logo.webp","altLogo":"Logo Grupo Visual","brand":"Grupo Visual","action":{"type":"external","route":"https://www.gpvisualead.com.br/login","label":"Área do Aluno","color":"white"},"light":true,"sticky":true}]
+16:I{"id":1859,"chunks":["72:static/chunks/72-7cd12794066e2d60.js","396:static/chunks/396-4cf8abf670efa00e.js","213:static/chunks/213-1ea4ebc872fb76f4.js","699:static/chunks/699-e6196f13cbc5261a.js","619:static/chunks/619-c2e82a3295333478.js","451:static/chunks/451-e11d09c0cf676e13.js","13:static/chunks/13-e704de2aa20ee792.js","161:static/chunks/161-a50d85153ca46f55.js","709:static/chunks/709-13009148e70e6cbe.js","185:static/chunks/app/layout-e7bf5df21143a21f.js"],"name":"","async":false}
+12:["$","$L16",null,{"faqTexts":{"titulo":"FAQ","descricao":"Perguntas e respostas mais frequentes","createdAt":"2023-09-09T18:55:18.424Z","updatedAt":"2023-09-09T18:55:18.424Z"},"faqs":[{"pergunta":"COMO FAÇO PARA INGRESSAR NO SETOR PÚBLICO E PRIVADO?","resposta":"No setor público a forma de ingressar é por meio de concurso público, já no setor privado por meio de entrevista de emprego.","createdAt":"2023-09-09T18:56:01.349Z","updatedAt":"2023-09-09T18:56:01.349Z"},{"pergunta":"QUAL O TEMPO DE DURAÇÃO DO CURSO?","resposta":"O curso de Auxiliar de Necropsia com Ênfase em Necromaquiagem tem um carga horária de 300 horas, assistindo em média 3 aulas por semana o curso terá a duração de 12 meses. As aulas são objetivas com a duração média de 30 minutos cada.","createdAt":"2023-09-09T18:56:19.406Z","updatedAt":"2023-09-09T18:56:19.406Z"},{"pergunta":"VALIDADE E RECONHECIMENTO DOS NOSSOS CERFITICADOS?","resposta":"Nossa Instituição tem certificação reconhecida em todo território nacional e é amparada pela lei dos cursos livres LDBE Nº 9.394/96 (Lei das diretrizes e bases da educação) conforme decreto Nº 5.154/04.","createdAt":"2023-09-09T18:56:37.831Z","updatedAt":"2023-09-09T18:56:37.831Z"}],"footerInfo":{"img_logo":"/grupo_visual_logo.webp","alt_logo":"Grupo Visual Logo","descricao":"Uma instituição de cursos profissionalizantes reconhecida pela credibilidade e compromisso com a formacao profissional dos seus estudantes","texto_copyright":"©2022 Grupo Visual. Todos os direitos reservados","telefone":"+554630554355","telefone_formatado":"(46) 3055-4355","email":"visualcursosfb@gmail.com","endereco":"Rua Romero Lauro Werlang, N 1490 - sala 101, Francisco Beltrao - PR","cnpj":"25.067.781/0001-62","facebook_url":"https://www.facebook.com/grupovisualfb","youtube_url":"https://www.youtube.com/@GRUPOVISUAL","instagram_url":"https://www.instagram.com/grupovisualfb/","linkedin_url":null,"createdAt":"2023-09-09T19:16:00.569Z","updatedAt":"2023-09-09T19:25:45.380Z","googlemaps_url":"https://www.google.com/maps/place/Grupo+Visual/@-26.0829291,-53.0533356,17z/data=!3m1!4b1!4m6!3m5!1s0x94f072cf96596055:0xfad208d13d95cfb4!8m2!3d-26.0829339!4d-53.0507607!16s%2Fg%2F1xg5tvdk?entry=ttu"},"links":[{"texto":"Cursos","url":"/cursos","link_externo":false,"createdAt":"2023-09-09T19:27:24.138Z","updatedAt":"2023-09-09T19:27:24.138Z"},{"texto":"Quem Somos","url":"/quem-somos","link_externo":false,"createdAt":"2023-09-09T19:27:39.503Z","updatedAt":"2023-09-09T19:27:39.503Z"},{"texto":" Nosso Método","url":"/quem-somos#nosso-metodo","link_externo":false,"createdAt":"2023-09-09T19:28:10.478Z","updatedAt":"2023-09-09T19:28:10.478Z"},{"texto":"Blog","url":"/blog","link_externo":false,"createdAt":"2023-09-09T19:28:23.163Z","updatedAt":"2023-09-09T19:28:23.163Z"},{"texto":"Contato","url":"/contato","link_externo":false,"createdAt":"2023-09-09T19:28:37.696Z","updatedAt":"2023-09-09T19:28:37.696Z"},{"texto":"Professores","url":"/professores","link_externo":false,"createdAt":"2023-09-09T19:28:52.381Z","updatedAt":"2023-09-09T19:28:52.381Z"}]}]
